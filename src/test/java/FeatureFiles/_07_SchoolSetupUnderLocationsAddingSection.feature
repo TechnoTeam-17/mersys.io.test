@@ -30,9 +30,9 @@ Feature: School Location Functionality
 
   And User must be able to enable and disable Partitions
 
-   Then click delete as name "lab8"
+   Then click delete as name "lab9"
 
-  And delete as name "lab8"  in Locations
+  And delete as name "lab9"  in Locations
 
 
 
